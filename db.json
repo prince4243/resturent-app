@@ -1,0 +1,123 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "Dhaba",
+      "email": "baba@glmail.com",
+      "mobile": 857485698569,
+      "address": "New Delhi janakpuri",
+      "services": "slow Food"
+    },
+    {
+      "id": 4,
+      "name": "ashu",
+      "email": "ashu@gmail.com",
+      "mobile": 0,
+      "address": "delhi",
+      "services": "fast food"
+    },
+    {
+      "id": 5,
+      "name": "Mohan pyare",
+      "email": "xyz@gmail.com",
+      "mobile": 123456789,
+      "address": "noida",
+      "services": "fast food"
+    },
+    {
+      "id": 6,
+      "name": "vrindavan hotel",
+      "email": "axy@gmail.com",
+      "mobile": 12,
+      "address": "hyderabad",
+      "services": "fast food"
+    },
+    {
+      "id": 7,
+      "name": "rishikesh hotel",
+      "email": "rishu@gmail.com",
+      "mobile": 987654321,
+      "address": "haridwar",
+      "services": "samosa"
+    },
+    {
+      "id": 8,
+      "name": "ram",
+      "email": "rishu@gmail.com",
+      "mobile": 234565443,
+      "address": "rewa",
+      "services": "samosa"
+    },
+    {
+      "id": 9,
+      "name": "kasish",
+      "email": "manu@gmail.com",
+      "mobile": 967,
+      "address": "banglour",
+      "services": "panner"
+    },
+    {
+      "id": 10,
+      "name": "Baghel dhaba",
+      "email": "baghel@gmail.com",
+      "mobile": 1254,
+      "address": "mangawan",
+      "services": "non veg"
+    }
+  ],
+  "comments": [],
+  "signup": [
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "mobile": 9658974568,
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "Ashish ",
+      "email": "ashish@gmail.com",
+      "mobile": 8874886684,
+      "password": "ashish",
+      "id": 3
+    },
+    {
+      "name": "ashu",
+      "email": "ashu@gmail.com",
+      "mobile": 0,
+      "password": "123456789",
+      "id": 4
+    },
+    {
+      "name": "binu",
+      "email": "binu@gmail.com",
+      "mobile": 8644444646441,
+      "password": "123456789",
+      "id": 5
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "mobile": 9658974568,
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "name": "prince",
+      "email": "prince1@gmail.com",
+      "mobile": 98765678,
+      "password": "0987654321",
+      "id": 7
+    },
+    {
+      "name": "reeshu",
+      "email": "rishu@gmail.com",
+      "mobile": 987654321,
+      "password": "98989898",
+      "id": 8
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
